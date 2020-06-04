@@ -1,0 +1,1056 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-06-04T15:19:29.600-06:00
+  initializedAtString: 2020-06-04T15:13:17.769-06:00
+  log:
+  - commitID: 4d0549c9dc2349eb8698d0066a17e3c6b71644c9
+    mergeA: 
+    mergeB: 
+    authorName: edisonb18
+    authorEmail: 42664237+edisonb18@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update .gitignore
+    description: 
+    timeString: 2020-06-04T15:16:55.000-06:00
+    commitTimeString: 2020-06-04T15:16:55.000-06:00
+    changes:
+    - path: .gitignore
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\.gitignore"
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 33eba9660435bc0815ee1fc3c0cabbc6e4e7dc8c
+    mergeA: 
+    mergeB: 
+    authorName: edisonb18
+    authorEmail: 42664237+edisonb18@users.noreply.github.com
+    commitEmail: 42664237+edisonb18@users.noreply.github.com
+    commitName: edisonb18
+    summary: Inicializacion
+    description: 
+    timeString: 2020-06-04T15:14:28.000-06:00
+    commitTimeString: 2020-06-04T15:14:28.000-06:00
+    changes:
+    - path: Assets\GalaxiBackground.jpg
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\GalaxiBackground.jpg"
+      projectPath: Assets\GalaxiBackground.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\GalaxiBackground.jpg.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\GalaxiBackground.jpg.meta"
+      projectPath: Assets\GalaxiBackground.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Materials.meta"
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\GalaxiBackground.mat
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Materials\\GalaxiBackground.mat"
+      projectPath: Assets\Materials\GalaxiBackground.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\GalaxiBackground.mat.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Materials\\GalaxiBackground.mat.meta"
+      projectPath: Assets\Materials\GalaxiBackground.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\wave.mat
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Materials\\wave.mat"
+      projectPath: Assets\Materials\wave.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\wave.mat.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Materials\\wave.mat.meta"
+      projectPath: Assets\Materials\wave.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins.meta"
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub.meta"
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor.meta"
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\AsyncBridge.Net35.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\ExtensionLoader.cs"
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\ExtensionLoader.cs.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.45.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.45.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Api.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Logging.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.45.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.45.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.Unity.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.UnityShim.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\GitHub.UnityShim.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\Mono.Posix.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\QuickGuide.pdf"
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\QuickGuide.pdf.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\ReadOnlyCollectionsInterfaces.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\System.Threading.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\UnityAPIWrapper.cs"
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\UnityAPIWrapper.cs.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\big-logo@2x.png"
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\big-logo@2x.png.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\credits.txt"
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\credits.txt.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\eula.txt"
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\eula.txt.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\libsfw.bundle.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\libsfw.so.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\sfw.net.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x64.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x64\\pthreadVC2.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x64\\sfw_x64.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x86.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x86\\pthreadVC2.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Plugins\\GitHub\\Editor\\x86\\sfw_x86.dll.meta"
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scenes.meta"
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\BaseDefenderGame.unity
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scenes\\BaseDefenderGame.unity"
+      projectPath: Assets\Scenes\BaseDefenderGame.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\BaseDefenderGame.unity.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scenes\\BaseDefenderGame.unity.meta"
+      projectPath: Assets\Scenes\BaseDefenderGame.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scenes\\SampleScene.unity"
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scenes\\SampleScene.unity.meta"
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts.meta"
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Aimcontroll.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Aimcontroll.cs"
+      projectPath: Assets\Scripts\Aimcontroll.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Aimcontroll.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Aimcontroll.cs.meta"
+      projectPath: Assets\Scripts\Aimcontroll.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Backgroung.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Backgroung.cs"
+      projectPath: Assets\Scripts\Backgroung.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Backgroung.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Backgroung.cs.meta"
+      projectPath: Assets\Scripts\Backgroung.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BaseControl.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BaseControl.cs"
+      projectPath: Assets\Scripts\BaseControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BaseControl.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BaseControl.cs.meta"
+      projectPath: Assets\Scripts\BaseControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BossController.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BossController.cs"
+      projectPath: Assets\Scripts\BossController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BossController.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BossController.cs.meta"
+      projectPath: Assets\Scripts\BossController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BossSpawnController.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BossSpawnController.cs"
+      projectPath: Assets\Scripts\BossSpawnController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BossSpawnController.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BossSpawnController.cs.meta"
+      projectPath: Assets\Scripts\BossSpawnController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Bullet.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Bullet.cs"
+      projectPath: Assets\Scripts\Bullet.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Bullet.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Bullet.cs.meta"
+      projectPath: Assets\Scripts\Bullet.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BulletCollection.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BulletCollection.cs"
+      projectPath: Assets\Scripts\BulletCollection.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BulletCollection.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\BulletCollection.cs.meta"
+      projectPath: Assets\Scripts\BulletCollection.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DropReward.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\DropReward.cs"
+      projectPath: Assets\Scripts\DropReward.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DropReward.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\DropReward.cs.meta"
+      projectPath: Assets\Scripts\DropReward.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EnemyControl.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\EnemyControl.cs"
+      projectPath: Assets\Scripts\EnemyControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EnemyControl.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\EnemyControl.cs.meta"
+      projectPath: Assets\Scripts\EnemyControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Gravity.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Gravity.cs"
+      projectPath: Assets\Scripts\Gravity.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Gravity.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Gravity.cs.meta"
+      projectPath: Assets\Scripts\Gravity.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\HpControl.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\HpControl.cs"
+      projectPath: Assets\Scripts\HpControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\HpControl.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\HpControl.cs.meta"
+      projectPath: Assets\Scripts\HpControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Hurtbox.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Hurtbox.cs"
+      projectPath: Assets\Scripts\Hurtbox.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Hurtbox.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Hurtbox.cs.meta"
+      projectPath: Assets\Scripts\Hurtbox.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelControl.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\LevelControl.cs"
+      projectPath: Assets\Scripts\LevelControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\LevelControl.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\LevelControl.cs.meta"
+      projectPath: Assets\Scripts\LevelControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PowerUp.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\PowerUp.cs"
+      projectPath: Assets\Scripts\PowerUp.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PowerUp.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\PowerUp.cs.meta"
+      projectPath: Assets\Scripts\PowerUp.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Shot.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Shot.cs"
+      projectPath: Assets\Scripts\Shot.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Shot.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Shot.cs.meta"
+      projectPath: Assets\Scripts\Shot.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Spawn.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Spawn.cs"
+      projectPath: Assets\Scripts\Spawn.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Spawn.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\Spawn.cs.meta"
+      projectPath: Assets\Scripts\Spawn.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SpawnCollection.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\SpawnCollection.cs"
+      projectPath: Assets\Scripts\SpawnCollection.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SpawnCollection.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\SpawnCollection.cs.meta"
+      projectPath: Assets\Scripts\SpawnCollection.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SpawnControl.cs
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\SpawnControl.cs"
+      projectPath: Assets\Scripts\SpawnControl.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SpawnControl.cs.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\Scripts\\SpawnControl.cs.meta"
+      projectPath: Assets\Scripts\SpawnControl.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\bullet.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\bullet.meta"
+      projectPath: Assets\bullet.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\bullet\Bullet.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\bullet\\Bullet.prefab"
+      projectPath: Assets\bullet\Bullet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\bullet\Bullet.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\bullet\\Bullet.prefab.meta"
+      projectPath: Assets\bullet\Bullet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\bullet\BulletWeak.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\bullet\\BulletWeak.prefab"
+      projectPath: Assets\bullet\BulletWeak.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\bullet\BulletWeak.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\bullet\\BulletWeak.prefab.meta"
+      projectPath: Assets\bullet\BulletWeak.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\enemy.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\enemy.meta"
+      projectPath: Assets\enemy.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\enemy\EnemyF.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\enemy\\EnemyF.prefab"
+      projectPath: Assets\enemy\EnemyF.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\enemy\EnemyF.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\enemy\\EnemyF.prefab.meta"
+      projectPath: Assets\enemy\EnemyF.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\enemy\EnemyR.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\enemy\\EnemyR.prefab"
+      projectPath: Assets\enemy\EnemyR.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\enemy\EnemyR.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\enemy\\EnemyR.prefab.meta"
+      projectPath: Assets\enemy\EnemyR.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor.meta"
+      projectPath: Assets\meteor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\Cannonball.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\Cannonball.prefab"
+      projectPath: Assets\meteor\Cannonball.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\Cannonball.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\Cannonball.prefab.meta"
+      projectPath: Assets\meteor\Cannonball.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\Proton.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\Proton.prefab"
+      projectPath: Assets\meteor\Proton.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\Proton.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\Proton.prefab.meta"
+      projectPath: Assets\meteor\Proton.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\amenazaL.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\amenazaL.prefab"
+      projectPath: Assets\meteor\amenazaL.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\amenazaL.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\amenazaL.prefab.meta"
+      projectPath: Assets\meteor\amenazaL.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\amenazaM.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\amenazaM.prefab"
+      projectPath: Assets\meteor\amenazaM.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\amenazaM.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\amenazaM.prefab.meta"
+      projectPath: Assets\meteor\amenazaM.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\amenazaS.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\amenazaS.prefab"
+      projectPath: Assets\meteor\amenazaS.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteor\amenazaS.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteor\\amenazaS.prefab.meta"
+      projectPath: Assets\meteor\amenazaS.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteorlv1.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteorlv1.prefab"
+      projectPath: Assets\meteorlv1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\meteorlv1.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\meteorlv1.prefab.meta"
+      projectPath: Assets\meteorlv1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp.meta"
+      projectPath: Assets\powerUp.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\BulletPU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\BulletPU.prefab"
+      projectPath: Assets\powerUp\BulletPU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\BulletPU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\BulletPU.prefab.meta"
+      projectPath: Assets\powerUp\BulletPU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\DamagePU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\DamagePU.prefab"
+      projectPath: Assets\powerUp\DamagePU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\DamagePU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\DamagePU.prefab.meta"
+      projectPath: Assets\powerUp\DamagePU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\ExtraLifePU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\ExtraLifePU.prefab"
+      projectPath: Assets\powerUp\ExtraLifePU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\ExtraLifePU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\ExtraLifePU.prefab.meta"
+      projectPath: Assets\powerUp\ExtraLifePU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\FireratePU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\FireratePU.prefab"
+      projectPath: Assets\powerUp\FireratePU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\FireratePU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\FireratePU.prefab.meta"
+      projectPath: Assets\powerUp\FireratePU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\HealBasePU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\HealBasePU.prefab"
+      projectPath: Assets\powerUp\HealBasePU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\HealBasePU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\HealBasePU.prefab.meta"
+      projectPath: Assets\powerUp\HealBasePU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\HealNavePU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\HealNavePU.prefab"
+      projectPath: Assets\powerUp\HealNavePU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\HealNavePU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\HealNavePU.prefab.meta"
+      projectPath: Assets\powerUp\HealNavePU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\NukePU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\NukePU.prefab"
+      projectPath: Assets\powerUp\NukePU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\NukePU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\NukePU.prefab.meta"
+      projectPath: Assets\powerUp\NukePU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\SpeedPU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\SpeedPU.prefab"
+      projectPath: Assets\powerUp\SpeedPU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\SpeedPU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\SpeedPU.prefab.meta"
+      projectPath: Assets\powerUp\SpeedPU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\SpreadPU.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\SpreadPU.prefab"
+      projectPath: Assets\powerUp\SpreadPU.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\powerUp\SpreadPU.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\powerUp\\SpreadPU.prefab.meta"
+      projectPath: Assets\powerUp\SpreadPU.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\shipslv1.prefab
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\shipslv1.prefab"
+      projectPath: Assets\shipslv1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\shipslv1.prefab.meta
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\shipslv1.prefab.meta"
+      projectPath: Assets\shipslv1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Packages\\manifest.json"
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\AudioManager.asset"
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\ClusterInputManager.asset"
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\DynamicsManager.asset"
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\EditorBuildSettings.asset"
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\EditorSettings.asset"
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\GraphicsSettings.asset"
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\InputManager.asset"
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\NavMeshAreas.asset"
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\NetworkManager.asset"
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\Physics2DSettings.asset"
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\PresetManager.asset"
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\ProjectSettings.asset"
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\ProjectVersion.txt"
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\QualitySettings.asset"
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\TagManager.asset"
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\TimeManager.asset"
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\UnityConnectSettings.asset"
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\ProjectSettings\\VFXManager.asset"
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 94768974aa6c896fe7f67c1b4928163d08aa8b0d
+    mergeA: 
+    mergeB: 
+    authorName: edisonb18
+    authorEmail: 42664237+edisonb18@users.noreply.github.com
+    commitEmail: 42664237+edisonb18@users.noreply.github.com
+    commitName: edisonb18
+    summary: Initial commit
+    description: 
+    timeString: 2020-06-04T15:12:58.000-06:00
+    commitTimeString: 2020-06-04T15:12:58.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\.gitattributes"
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\.gitignore"
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: "C:\\Users\\Edison\\Desktop\\I Semestre 2020\\Dise\xF1o De Juegos\\Proyectos\\Base_Defender\\Assets\\.gitignore"
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
